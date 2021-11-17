@@ -54,7 +54,7 @@ def main():
     global number_pieces
     while ctrl<=number_pieces:
         if ctrl2==1:
-            print(total)
+            #print(total)
             taking_entry()
             if entry==total and entry!=0:
                 point+=1
